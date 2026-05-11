@@ -1,2 +1,2 @@
 # UDPMultiBridge
-REceive an UDP message and reproduce it on other up to 9 ports.
+Receive an UDP message on a specific port and reproduce it as is on other up to 9 ports.
